@@ -6,7 +6,7 @@ It is possible to implement dynamic programming in Keras layers to take advantag
 
 Laser tracking is important in a wide variety of applications: seam tracking (for automated welding robots), self driving vehicles (to determine distances and road shape), 3D scanning and others.
 
-Below is a sample of how the processing results:
+Below is a sample of the results:
 
 ![Original image](weld2.png "Original image")
 
