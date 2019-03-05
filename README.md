@@ -1,5 +1,5 @@
 # LaserLineTracking
-A Keras implementation of dynamic programming for shortest path tracking.
+A Keras implementation of dynamic programming for shortest cost line path tracking.
 ---
 
 It is possible to implement dynamic programming in Keras layers to take advantage of GPU acceleration for laser line tracking.
