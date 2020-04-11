@@ -20,6 +20,8 @@ If you are interested in a complete version of this code using C# and OpenCL fee
 
 (I have this code implemented in C/C# and OpenCL for a different application. I will port the code to Python if and when the need arises or if someone requests the features).
 
+[ ] Port implementation to tensorflow 2.0
+
 [ ] Embed backtracking in Keras
 
 [ ] Carry information from more than 1 pixel above/below (influences the max slope of the tracked line - for 1 pixel the max slope is 45 degrees. For 2 pixels it increases to 63 degrees)
